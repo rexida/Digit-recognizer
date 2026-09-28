@@ -37,15 +37,12 @@ When a digit is drawn on the Tkinter canvas, the program:
 
 Install the required libraries with:
 
-```bash
 py -m pip install -r requirements.txt
-```
 
-## Run
+# Run
 
-```bash
 py main.py
-```
+
 
 Draw a digit on the canvas and press **Predict**.
 
